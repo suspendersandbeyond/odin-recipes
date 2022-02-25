@@ -1,2 +1,5 @@
 # odin-recipes
-top recipes project
+
+Foundations Project: Recipes
+
+time for my first actual githwub repo!
